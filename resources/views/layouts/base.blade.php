@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="assets/component.css">
   <link rel="stylesheet" href="assets/slaider.css">
   <link rel="stylesheet" href="assets/normalize.css">
-
+  <link rel="stylesheet" href="assets/contact.css">
 
 
 
@@ -26,7 +26,7 @@
       <a href="#">Servicios</a>
       <a href="#">Proyectos</a>
       <a href="#">Nosotros</a>
-      <a href="#">Contacto</a>
+      <a href="/contact">Contacto</a>
     </div>
   </div>
 </div>
